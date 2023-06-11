@@ -1,0 +1,7 @@
+E:\code of week 1 vs studio\application\application\obj\Debug\application.csproj.AssemblyReference.cache
+E:\code of week 1 vs studio\application\application\obj\Debug\application.csproj.CoreCompileInputs.cache
+E:\code of week 1 vs studio\application\application\bin\Debug\application.exe.config
+E:\code of week 1 vs studio\application\application\bin\Debug\application.exe
+E:\code of week 1 vs studio\application\application\bin\Debug\application.pdb
+E:\code of week 1 vs studio\application\application\obj\Debug\application.exe
+E:\code of week 1 vs studio\application\application\obj\Debug\application.pdb
